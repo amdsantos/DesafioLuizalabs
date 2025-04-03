@@ -6,21 +6,6 @@ Este projeto implementa 2 cenários de testes automatizados para o site **dev.fi
 ---
 
 
-## 📋 **Índice**
-
-1. [**Descrição do Projeto**](#descrição-do-projeto)
-2. [**Cenários de Teste**](#cenário-de-teste) 
-3. [**Tecnologias Utilizadas**](#tecnologias-utilizadas)  
-4. [**Pré-requisitos**](#pré-requisitos)  
-5. [**Configuração do Ambiente**](#configuração-do-ambiente)  
-6. [**Como Executar os Testes**](#como-executar-os-testes)  
-7. [**Estrutura do Projeto**](#estrutura-do-projeto)  
-8. [**Contato**](#contato)  
-
-
----
-
-
 ## 📖 **Descrição do Projeto**
 
 O objetivo deste projeto é garantir a qualidade e estabilidade do site **Advantage Online Shopping** por meio de testes automatizados. Cenários escritos em linguagem **Gherkin** tornam os testes mais compreensíveis para todos os envolvidos no processo.
